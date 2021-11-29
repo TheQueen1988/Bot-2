@@ -1,5 +1,5 @@
 exports.panel = (prefix, time, fechabra) => {
-  return `*╔═「 _NK-BOT_ 」══*
+  return `*╔═「 _🍫  🎀  𝒯𝒽𝑒 𝒬𝓊𝑒𝑒𝓃  🎀  🍫_ 」══*
 *╠「 Zuso-Horário 🌎 」*
 *║Peru   : ${time}*
 *║Brasil : ${fechabra}*
